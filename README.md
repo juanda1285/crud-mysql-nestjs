@@ -10,11 +10,11 @@ Despues FrontEnd en el puerto 3001
 3- Ejecutar `npm install`
 4- Ejecutar `npm run start:dev`
 
----------------
--Ignorar si el FrontEnd esta en el 3001
+##-
+Ignorar si el FrontEnd esta en el 3001
 1.En caso de problemas de CORS,
 Ajustar el puerto en el src/main.ts con el del Frontend 
--------------
+
 
 ## Por mejorar(falta de tiempo)
 
