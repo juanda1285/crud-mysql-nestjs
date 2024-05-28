@@ -12,8 +12,8 @@ Despues FrontEnd en el puerto 3001
 
 ---------------
 -Ignorar si el FrontEnd esta en el 3001
-    En caso de problemas de CORS,
-    Ajustar el puerto en el src/main.ts con el del Frontend 
+1.En caso de problemas de CORS,
+Ajustar el puerto en el src/main.ts con el del Frontend 
 -------------
 
 ## Por mejorar(falta de tiempo)
